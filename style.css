@@ -3,7 +3,7 @@
 }
 
 body {
-	background-color: #2C2F33;
+	background-color: #2C2C2C;
 }
 
 #title {
@@ -16,9 +16,9 @@ body {
 .page {
 	background-color: white;
 	border: 0px solid #23272A;
-	border-radius: 20px;
-	margin-left: 10%;
-	margin-right: 10%;
+	border-radius: 15px;
+	margin-left: 15%;
+	margin-right: 15%;
 	padding: 30px;
 	-webkit-box-shadow: 10px 10px 87px  rgba(0,0,0,1);
 	-moz-box-shadow: 10px 10px 87px  rgba(0,0,0,1);
