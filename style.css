@@ -1,5 +1,5 @@
 * {
-	font-family: 'IBM Plex Serif', serif;
+	font-family: "Open Sans", sans-serif;
 }
 
 body {
@@ -15,11 +15,14 @@ body {
 
 .page {
 	background-color: white;
-	border: 5px solid #23272A;
+	border: 0px solid #23272A;
 	border-radius: 20px;
 	margin-left: 10%;
 	margin-right: 10%;
 	padding: 30px;
+	-webkit-box-shadow: 10px 10px 87px  rgba(0,0,0,1);
+	-moz-box-shadow: 10px 10px 87px  rgba(0,0,0,1);
+	box-shadow: 10px 10px 87px  rgba(0,0,0,1);
 }
 
 #quote {
